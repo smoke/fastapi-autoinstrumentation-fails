@@ -1,0 +1,7 @@
+fastapi==0.112.0
+# if this is included auto-instrumentation will work just fine
+# fastapi-slim==0.112.0
+opentelemetry-distro==0.47b0
+opentelemetry-instrumentation==0.47b0
+opentelemetry-instrumentation-asgi==0.47b0
+opentelemetry-instrumentation-fastapi==0.47b0
